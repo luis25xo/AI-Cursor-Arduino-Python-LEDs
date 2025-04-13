@@ -1,0 +1,2 @@
+pyuic5 -x nombre.ui -o nombre.py
+pyuic5 -x Interfaz_Arduino.ui -o Interfaz_Arduino.py
